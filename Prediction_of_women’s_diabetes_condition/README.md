@@ -1,4 +1,4 @@
-# Prediction of Women's Diabetes Condition With Machine Learning Algorithms
+#  Prediction of Women's Diabetes Condition With Machine Learning Algorithms
 
 Diabetes is a refractory condition that could lead to a global healthcare disaster. The detrimental effects of diabetes are currently affecting a sizeable section of the population worldwide, and many of these individuals especially women are not being properly diagnosed. Diabetics may eventually develop significant health issues such as nerve damage, blindness, kidney failure, and heart failure. Statistics say, 382 million people worldwide have diabetes which will double to 592 million by 2035.
 
